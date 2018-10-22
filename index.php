@@ -7,7 +7,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="CSS/estilo.css">
+        <link rel="stylesheet" type="text/css" href="CSS/Estilo.css">
         <meta charset="UTF-8">
         <title></title>
     </head>
