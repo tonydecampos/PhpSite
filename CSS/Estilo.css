@@ -55,18 +55,23 @@ color: black;
     padding-top: 40px;
 }
 
+.largura100porcento {
+    width: 100%;
+}
+
 .footer {
     max-height: 40px;
     min-height: 40px;
     background-color: gray;
-    position: absolute;
+    position: fixed;
     right: 0;
     bottom: 0;
     left: 0;
     padding: 1rem;
+    margin-bottom: 0px;
 }
 
-/*SCROLL*/
+/*SCROLL - INÍCIO*/
 .scroll_button
 {
  cursor:pointer;
@@ -75,7 +80,9 @@ color: black;
 .scroll_div
 {
  width:100%;
- height: 1294px;
+ /*height: 1294px;*/
  border:1px solid;
- margin-top: 50px;
+ /*margin-top: 90px;*/
+ padding-top: 40px;
 }
+/*SCROLL - FIM*/
